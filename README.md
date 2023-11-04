@@ -28,6 +28,24 @@ I love learning complex fascinating concepts and theory when it comes to Data St
 - Bubble Sort
 - Factorial
 - Palindrome
+- Arithmetic
+- Character Count
+- Fizz Buzz
+- log Even Nums
+- Countdown
+- Is Unique
+- Max Num
+- Odd or Even
+- Product of Largest Two
+- Camel Case
+- Is Anagram
+- Log Nums
+- Sum Array
+- Title Case
+- Vowel Count
+
+
+
 
 ## Other Thearetical concepts
 - Asymptotic Notations (Big O Notation, Omenga Notation, and Theta)
